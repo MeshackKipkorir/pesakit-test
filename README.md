@@ -18,6 +18,6 @@
 - LOGIN: http://127.0.0.1/login [email,password]
 - REGISTER: http://127.0.0.1/register [name,email,phone,password,role]
 - FETCH USER: http://127.0.0.1/fetch_user/{id}
-- DASHBOARD LOGIN: http:127.0.0.1/login
+- DASHBOARD LOGIN: http:127.0.0.1/login (you may need to login as a regular user)
 
 
